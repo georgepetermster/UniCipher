@@ -31,5 +31,5 @@ UniCipher.encrypt("<somePassword>", "<someCipher>");
 
 ## License
 
-MIT
+[MIT](https://github.com/yuriy-klerk/UniCipher/blob/master/LICENSE.md)
 
