@@ -1,17 +1,19 @@
-# UniCipher Library
+# UniCipher Library 
+![GitHub package.json version](https://img.shields.io/github/package-json/v/yuriy-klerk/UniCipher?label=NPM&style=for-the-badge)
 
+by Intelligent Software. Yuriy Klerk.
 ### Install
 ```$xslt
-npm i --save UniCipher
+npm i --save is-unicipher
 ```
 
 ### How to use
 
 ```javascript
-import UniCipher from 'UniCipher';
+import UniCipher from 'is-unicipher';
 
 //or (for es < 6)
-const UniCipher = require("UniCipher"); 
+const UniCipher = require("is-unicipher"); 
 ```
 
 ##### Encrypt your text with some password:
