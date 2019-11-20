@@ -1,5 +1,5 @@
 # UniCipher Library 
-![GitHub package.json version](https://img.shields.io/github/package-json/v/yuriy-klerk/UniCipher?label=NPM&style=for-the-badge)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/yuriy-klerk/UniCipher?label=NPM&style=for-the-badge)(https://www.npmjs.com/package/is-unicipher)
 
 by Intelligent Software. Yuriy Klerk.
 ### Install
