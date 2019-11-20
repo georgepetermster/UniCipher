@@ -1,0 +1,7 @@
+{
+  "name": "test-unicipher",
+  "version": "1.0.0",
+  "dependencies": {
+    "unicipher": "1.0.0"
+  }
+}

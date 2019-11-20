@@ -1,11 +1,8 @@
 {
-  "name": "UniCipher",
-  "version": "1.0.0",
-  "scripts": {
-
-  },
-  "dependencies": {
-
-  },
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  "name": "unicipher",
+  "author": "Yuriy Klerk",
+  "license": "MIT",
+  "version": "0.0.1-beta",
+  "scripts": {},
+  "dependencies": {}
 }
