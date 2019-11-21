@@ -18,12 +18,17 @@ const UniCipher = require("is-unicipher");
 
 ##### Encrypt your text with some password:
 ```javascript
-UniCipher.encrypt("<somePassword>", "<somePlainText>");
+UniCipher.encrypt("somePassword", "somePlainText");
+// result:
+// {"iv":"HP7Ofi5LyCV8UdFk+G+vrA==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"owjDdsE364I=","ct":"wBislLExHndmo3YRwg=="}
+
 ```
 
 ##### Decrypt your cipher:
 ```javascript
-UniCipher.encrypt("<somePassword>", "<someCipher>");
+UniCipher.decrypt("somePassword", "someCipher");
+//Result
+// somePlainText
 ```
 
 ## Products that use UniCipher
